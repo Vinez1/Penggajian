@@ -12,3 +12,4 @@ Fitur Admin
 
 Fitur Karyawan
 1. Cetak Slip Gaji
+
